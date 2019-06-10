@@ -1,6 +1,7 @@
 # python-prisoners
 
-## **Ratio_Among_Different_Mode_Of_Benefit**
+## **OUTPUT**
+
 ![img](https://github.com/Akansha-Jaisinghani/Data-prisoners/blob/master/sample.png)
 
 
